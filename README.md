@@ -63,3 +63,9 @@ Next we need to install python support (node is optional)
 > The computing scientist's main challenge is not to get confused by the complexities of his own making. 
 
 \- Edsger W. Dijkstra
+
+
+## Install Note
+- nvim version should be newer than 0.7
+- nvim-clangd for C++ need clang and nodejs installed
+- tree-sitter compile error: [#626](https://github.com/nvim-treesitter/nvim-treesitter/issues/626)
